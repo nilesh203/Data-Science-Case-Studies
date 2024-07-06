@@ -1,1 +1,1 @@
-Python and datascience case studies 
+ datascience case studies 
